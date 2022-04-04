@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         I Bot
 // @namespace    https://github.com/PlaceIndia/Bot/
-// @version      21
+// @version      22
 // @description  Bot for r/IndiaPlace!
 // @author       NoahvdAa
 // @match        https://www.reddit.com/r/place/*
