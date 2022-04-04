@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         IndiaPlace Bot
-// @namespace    https://github.com/pewpasta/Bot-1
+// @name         I Bot
+// @namespace    https://github.com/pewpasta/sa/
 // @version      20
 // @description  Bot for r/IndiaPlace!
 // @author       NoahvdAa
@@ -9,8 +9,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @require	     https://cdn.jsdelivr.net/npm/toastify-js
 // @resource     TOASTIFY_CSS https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css
-// @updateURL    https://github.com/pewpasta/Bot-1/raw/master/placenlbot.user.js
-// @downloadURL  https://github.com/pewpasta/Bot-1/raw/master/placenlbot.user.js
+// @updateURL    https://github.com/pewpasta/sa/raw/main/placenlbot.user.js
+// @downloadURL  https://github.com/pewpasta/sa/raw/main/placenlbot.user.js
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
 // ==/UserScript==
