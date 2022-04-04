@@ -5,4 +5,4 @@
 You can later click it again to reset your screen timeout to the default one.
 4. Open the Kiwi Browser and log into your Reddit account from [https://www.reddit.com/login/](https://www.reddit.com/login/)
 5. Open this link https://github.com/PlaceIndia/Bot in the Kiwi Browser
-6. Now you can follow the instructions from here because it's the same for both mobile and pc
+6. Now you can follow the instructions from the link above because it's the same for both mobile and pc
