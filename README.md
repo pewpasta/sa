@@ -19,7 +19,7 @@ before you start, make sure your cooldown has run out!
 3. Reload your **r/place** tab. If everything went well, you'll see "Getting access token..." in the top right of your screen. The bot is now active, You'll be able to see what the bot is doing through these messages.
 ![0404104604_brave](https://user-images.githubusercontent.com/67459484/161478424-96ddd467-1886-45a3-befb-89b38126bc1b.jpg)
 
-**The script will allow for CORS access press 'Allow all' when it pops up!!**
+**IMPORTANT - The script will allow for CORS access press 'Allow all' when it pops up!!**
 ![0404104216_chrome](https://user-images.githubusercontent.com/67459484/161478047-8ebcf10b-e3bc-4510-8eeb-02d704464781.jpg)
 
 
